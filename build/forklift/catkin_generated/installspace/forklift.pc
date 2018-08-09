@@ -1,0 +1,8 @@
+prefix=/home/curtis_interns/catkin_ws/install
+
+Name: forklift
+Description: Description of forklift
+Version: 0.0.0
+Cflags: -I/home/curtis_interns/catkin_ws/install/include
+Libs: -L/home/curtis_interns/catkin_ws/install/lib 
+Requires: message_runtime

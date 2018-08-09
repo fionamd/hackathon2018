@@ -1,0 +1,2 @@
+forklift
+-DCATKIN_DEVEL_PREFIX=/home/curtis_interns/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/curtis_interns/catkin_ws/install -G Unix Makefiles
